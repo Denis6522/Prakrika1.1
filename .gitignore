@@ -97,6 +97,9 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+# Игнорировать все .json, кроме config.json
+*.json
+!Settings/config.json
 
 # Chutzpah Test files
 _Chutzpah*
