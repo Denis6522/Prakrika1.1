@@ -1,0 +1,8 @@
+{
+  "SourceDirectories": [
+    "C:\\Your\\Default\\Source\\Path",
+    "D:\\Another\\Source\\Path"
+  ],
+  "TargetDirectory": "F:\\Backup\\Destination",
+  "LogLevel": "Debug"
+}
